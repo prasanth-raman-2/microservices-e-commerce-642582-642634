@@ -1,1 +1,3 @@
-# microservices-e-commerce-642582-642634
+# Project Repository
+
+This is the initial README file for the project.
